@@ -1,0 +1,7 @@
+﻿  fiveCrownsImp.cpp
+c:\users\eric\desktop\c++ homework\m06\fivecrownsimp.cpp(145): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  fiveCrowns.cpp
+c:\users\eric\desktop\c++ homework\m06\fivecrowns.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  FiveCrowns.vcxproj -> C:\Users\Eric\Desktop\C++ Homework\M12\FiveCrowns\x64\Debug\FiveCrowns.exe
+  FiveCrowns.vcxproj -> C:\Users\Eric\Desktop\C++ Homework\M12\FiveCrowns\x64\Debug\FiveCrowns.pdb (Partial PDB)

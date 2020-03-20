@@ -1,0 +1,4 @@
+﻿  fiveCrowns.cpp
+c:\users\eric\desktop\c++ homework\m06\fivecrowns.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FiveCrowns.vcxproj -> C:\Users\Eric\Desktop\C++ Homework\M12\FiveCrowns\Debug\FiveCrowns.exe
+  FiveCrowns.vcxproj -> C:\Users\Eric\Desktop\C++ Homework\M12\FiveCrowns\Debug\FiveCrowns.pdb (Partial PDB)
