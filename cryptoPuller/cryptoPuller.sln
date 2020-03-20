@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "cryptoPuller", "cryptoPuller\cryptoPuller.pyproj", "{E446DE53-9A83-41C8-9F96-7F546FC9B21C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cryptoAnalyzer", "cryptoAnalyzer\cryptoAnalyzer.vcxproj", "{B5AC5324-2264-47AF-B4AC-769EE12CD401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E446DE53-9A83-41C8-9F96-7F546FC9B21C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E446DE53-9A83-41C8-9F96-7F546FC9B21C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E446DE53-9A83-41C8-9F96-7F546FC9B21C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E446DE53-9A83-41C8-9F96-7F546FC9B21C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E446DE53-9A83-41C8-9F96-7F546FC9B21C}.Release|x64.ActiveCfg = Release|Any CPU
+		{E446DE53-9A83-41C8-9F96-7F546FC9B21C}.Release|x86.ActiveCfg = Release|Any CPU
+		{B5AC5324-2264-47AF-B4AC-769EE12CD401}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{B5AC5324-2264-47AF-B4AC-769EE12CD401}.Debug|x64.ActiveCfg = Debug|x64
+		{B5AC5324-2264-47AF-B4AC-769EE12CD401}.Debug|x64.Build.0 = Debug|x64
+		{B5AC5324-2264-47AF-B4AC-769EE12CD401}.Debug|x86.ActiveCfg = Debug|Win32
+		{B5AC5324-2264-47AF-B4AC-769EE12CD401}.Debug|x86.Build.0 = Debug|Win32
+		{B5AC5324-2264-47AF-B4AC-769EE12CD401}.Release|Any CPU.ActiveCfg = Release|Win32
+		{B5AC5324-2264-47AF-B4AC-769EE12CD401}.Release|x64.ActiveCfg = Release|x64
+		{B5AC5324-2264-47AF-B4AC-769EE12CD401}.Release|x64.Build.0 = Release|x64
+		{B5AC5324-2264-47AF-B4AC-769EE12CD401}.Release|x86.ActiveCfg = Release|Win32
+		{B5AC5324-2264-47AF-B4AC-769EE12CD401}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EF7A7CD-1657-47E3-833B-43A619ED3F79}
+	EndGlobalSection
+EndGlobal

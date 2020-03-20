@@ -1,0 +1,3 @@
+Timestamp: 
+
+Invalid coin when trying to write coin data to file.

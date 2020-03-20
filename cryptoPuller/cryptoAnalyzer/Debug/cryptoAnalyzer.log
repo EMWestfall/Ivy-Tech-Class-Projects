@@ -1,0 +1,9 @@
+﻿  cryptoAnalyzer.cpp
+c:\users\eric\desktop\c++ homework\m16\cryptopuller\cryptoanalyzer\cryptoanalyzer.cpp(33): warning C4018: '<': signed/unsigned mismatch
+  cryptoAnalyzerImplementation.cpp
+c:\users\eric\desktop\c++ homework\m16\cryptopuller\cryptoanalyzer\cryptoanalyzerimplementation.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\desktop\c++ homework\m16\cryptopuller\cryptoanalyzer\cryptoanalyzerimplementation.cpp(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\desktop\c++ homework\m16\cryptopuller\cryptoanalyzer\cryptoanalyzerimplementation.cpp(125): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+     Creating library C:\Users\Eric\Desktop\C++ Homework\M16\cryptoPuller\Debug\cryptoAnalyzer.lib and object C:\Users\Eric\Desktop\C++ Homework\M16\cryptoPuller\Debug\cryptoAnalyzer.exp
+  cryptoAnalyzer.vcxproj -> C:\Users\Eric\Desktop\C++ Homework\M16\cryptoPuller\Debug\cryptoAnalyzer.pyd
